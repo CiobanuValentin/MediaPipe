@@ -59,7 +59,6 @@ This dataset can be used for:
 ---
 
 ## 🛠 Next Steps
-- 🖼 Want to **visualize** these landmarks? Use OpenCV to draw them on video frames.
 - 🧠 Want to **train a gesture recognition model**? Use this dataset as input.
 
 Let me know how you'd like to proceed! 🚀
